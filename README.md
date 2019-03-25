@@ -2,4 +2,4 @@
 
 ## JKOPAY
 
-![JKOPAY](./assets/JKOPAY.JPG)
+![JKOPAY](./assets/JKOPay.JPG)
