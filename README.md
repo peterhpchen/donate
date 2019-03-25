@@ -1,2 +1,5 @@
-# donate
-Donate Information
+# Donate
+
+## JKOPAY
+
+![JKOPAY](./assets/JKOPAY.JPG)
